@@ -1,0 +1,268 @@
+{
+  "settings": {
+    "name": "Trading_Alto_Rendimiento_Academy",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "Sleek",
+      "title": "Sleek",
+      "styling": {},
+      "additionalSetColors": [
+        "#67b138"
+      ]
+    },
+    "versionFirst": "4.4.0",
+    "uniqCompNum": 6,
+    "versionPublish": "4.4.0",
+    "favicon": "",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            "&.mbr-navbar--auto-collapse.mbr-navbar--open .mbr-navbar__menu": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">SAMPLE PAGE</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-secondary-outline\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Sleek",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a data-app-btn=\"true\" class=\"navbar-brand\" href=\"\" data-app-selector=\".mbr-brand__name a\">Sleek</a>",
+          "alias": "sleek/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "icon1": "fa fa-paper-plane-o",
+            "paddingTop": "0",
+            "paddingBottom": "8",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-1620x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<b>TRADING DE ALTO RENDIMIENTO ACADEMY</b><br><br><br><br><br><br>Las 5 primeras clases en video GRATIS<br>",
+          "text": "Déjanos tu email y consigue las 5 primeras clases en video totalmente gratis!",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn intro-newsletter-button newsletter-btn btn btn-info\"><i class=\"fa fa-paper-plane-o\"></i></a> ",
+          "form": {
+            "action": "guillermozch@gmail.com",
+            "alerts": {
+              "success": "Disfruta de las 5 primeras clases en video!"
+            },
+            "fields": {
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Déjanos tu mail aquí"
+              }
+            }
+          },
+          "alias": "sleek/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-4",
+          "_styles": {
+            "H2": {
+              "text-align": "center",
+              "font-size": "60px"
+            },
+            "B": {
+              "font-size": "100px",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-1620x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222222",
+            "overlayOpacity": 0.4
+          },
+          "title": "<i><b>Convierte 500€ en 4.800€ con trading alto rendimiento academy.</b></i>",
+          "text": "Descubre como empezar hoy mismo!",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-info\" href=\"#\" data-toolbar=\"-mbrBtnMove\">Purchase Now</a>   <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-primary\" href=\"#\" data-toolbar=\"-mbrBtnMove\"></a>",
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1626x1080.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=fo1T_DkeSqY",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "alias": "sleek/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "countdown": "2018/01/01",
+            "paddingTop": "1",
+            "paddingBottom": 0,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/8.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222222",
+            "overlayOpacity": 0.6
+          },
+          "title": "Our new product launch",
+          "text": "Lorem ipsum dolor sit amet adipiscing elit curabitur sapien leo consequat sed aliquam at convallis sit amet metus. Vivamus malesuada ex in placerat bibendum, est dui euismod sapien, eget tincidunt nunc ipsum ut mauris.",
+          "alias": "sleek/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-2"
+        },
+        {
+          "_params": {
+            "firstType": "default",
+            "secondType": "hidden",
+            "thirdType": "default",
+            "fourthType": "default",
+            "showMainTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "lineColor": "#3498db",
+            "paddingTop": 2,
+            "paddingBottom": 1,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/sleek/components/_images/photo-3.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#222222",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "mainTitle": "CHOOSE YOUR BEST PLAN",
+          "text": "Suspendisse egestas mattis rhoncus pellen tesque euismod erat at posuere molestie lorem lectus interdum augue",
+          "title1": "<strong>Basic&nbsp;</strong>",
+          "title2": "<strong>Standard BEST VALUE!</strong>",
+          "title3": "<strong>Premium &nbsp;<span class=\"label label-success\">Best Value!</span></strong>",
+          "title4": "<strong>Ultimate</strong>",
+          "cents1": "<span>77</span>",
+          "cents2": "<span>77</span>",
+          "cents3": "<span>77</span>",
+          "cents4": "<span>77</span>",
+          "price1": "$59<span mbr-html=\"cents1\" data-app-edit=\"content\" data-app-placeholder=\"0\" class=\"price-cents\"></span>",
+          "price2": "$39<span mbr-html=\"cents2\" data-app-edit=\"content\" data-app-placeholder=\"0\" class=\"price-cents\"></span>",
+          "price3": "$99<span mbr-html=\"cents3\" data-app-edit=\"content\" data-app-placeholder=\"0\" class=\"price-cents\"></span>",
+          "price4": "$149<span mbr-html=\"cents4\" data-app-edit=\"content\" data-app-placeholder=\"0\" class=\"price-cents\"></span>",
+          "period1": "per month",
+          "period2": "per month",
+          "period3": "per month",
+          "period4": "per month",
+          "list1": "<ul class=\"list-group\"><li class=\"list-group-item\">1 Project</li><li class=\"list-group-item\">5 GB of Storage</li><li class=\"list-group-item\">Up to 100 Users</li><li class=\"list-group-item\">10 GB Bandwidth</li><li class=\"list-group-item\">Security Suite</li><li class=\"list-group-item\"></li></ul>",
+          "list2": "<ul class=\"list-group\"><li class=\"list-group-item\">3 Projects</li><li class=\"list-group-item\">10 GB of Storage</li><li class=\"list-group-item\">Up to 250 Users</li><li class=\"list-group-item\">25 GB Bandwidth</li><li class=\"list-group-item\">Security Suite</li><li class=\"list-group-item\"></li></ul>",
+          "list3": "<ul class=\"list-group\"><li class=\"list-group-item\"><b>5 Señales/semana</b></li><li class=\"list-group-item\"><b>Acceso al chatroom</b></li><li class=\"list-group-item\"><b>Acceso a la biblioteca de activos</b></li><li class=\"list-group-item\"><b>+ de 100 clases en video</b></li><li class=\"list-group-item\"><b>Emails y alertas en tiempo real</b></li><li class=\"list-group-item\"><br></li></ul>",
+          "list4": "<ul class=\"list-group\"><li class=\"list-group-item\">Unlimited</li><li class=\"list-group-item\">150 GB of Storage</li><li class=\"list-group-item\">Unlimited</li><li class=\"list-group-item\">500 GB Bandwidth</li><li class=\"list-group-item\">Security Suite</li><li class=\"list-group-item\"></li></ul>",
+          "button1": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-primary\" href=\"#\">Sign Up Now!</a> ",
+          "button2": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-info\" href=\"#\">Sign Up Now!</a>",
+          "button3": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-primary\" href=\"#\">Sign Up Now!</a>",
+          "button4": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-primary\" href=\"#\">Sign Up Now!</a>",
+          "alias": "sleek/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-3"
+        }
+      ]
+    }
+  }
+}
