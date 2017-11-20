@@ -150,7 +150,7 @@
           },
           "title": "<i><b>Convierte 500€ en 4.800€ con trading alto rendimiento academy.</b></i>",
           "text": "Descubre como empezar hoy mismo!",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-info\" href=\"#\" data-toolbar=\"-mbrBtnMove\">Purchase Now</a>   <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-primary\" href=\"#\" data-toolbar=\"-mbrBtnMove\"></a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-info\" href=\"#\" data-toolbar=\"-mbrBtnMove\">Purchase Now</a>    <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-primary\" href=\"#\" data-toolbar=\"-mbrBtnMove\"></a>",
           "media": {
             "image": {
               "active": true,
@@ -173,7 +173,13 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-1"
+          "_anchor": "header3-1",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          }
         },
         {
           "_params": {
@@ -195,8 +201,8 @@
             "overlayColor": "#222222",
             "overlayOpacity": 0.6
           },
-          "title": "Our new product launch",
-          "text": "Lorem ipsum dolor sit amet adipiscing elit curabitur sapien leo consequat sed aliquam at convallis sit amet metus. Vivamus malesuada ex in placerat bibendum, est dui euismod sapien, eget tincidunt nunc ipsum ut mauris.",
+          "title": "Registrate antes de que termine la promoción para los 100 primeros estudiantes de la 2ªtrading roomlist.",
+          "text": "En TRADING DE ALTO RENDIMIENTO ACADEMY aprenderás a manejar la plataforma y todos sus entresijos, podrás operar de manera autónoma<br>y podrás preguntar en tutorías personalizadas cualquier duda que tengas.",
           "alias": "sleek/components",
           "_tags": [
             "Theme"
@@ -229,12 +235,12 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "mainTitle": "CHOOSE YOUR BEST PLAN",
-          "text": "Suspendisse egestas mattis rhoncus pellen tesque euismod erat at posuere molestie lorem lectus interdum augue",
-          "title1": "<strong>Basic&nbsp;</strong>",
+          "mainTitle": "Elige el mejor plan&nbsp;",
+          "text": "que se adapte a tus necesidades o intereses.",
+          "title1": "<strong>trader&nbsp;</strong>",
           "title2": "<strong>Standard BEST VALUE!</strong>",
-          "title3": "<strong>Premium &nbsp;<span class=\"label label-success\">Best Value!</span></strong>",
-          "title4": "<strong>Ultimate</strong>",
+          "title3": "<strong>top trader &nbsp;<span class=\"label label-success\">Best Value!</span></strong>",
+          "title4": "<strong>top trader +</strong>",
           "cents1": "<span>77</span>",
           "cents2": "<span>77</span>",
           "cents3": "<span>77</span>",
