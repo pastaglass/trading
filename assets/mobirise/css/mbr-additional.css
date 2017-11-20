@@ -1,5 +1,7 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+
 
 
 #menu-0 .mbr-brand__name {
@@ -17,11 +19,25 @@
 #header2-4 H2 {
   text-align: center;
   font-size: 60px;
+  font-family: 'Oswald', sans-serif;
 }
 #header2-4 B {
   font-size: 100px;
   font-family: 'Bitter', serif;
 }
+#header2-4 P {
+  font-size: 25px;
+}
 #header3-1 .btn {
   font-family: 'Lato', sans-serif;
+  font-size: 14px;
+}
+#header3-1 P {
+  font-size: 20px;
+}
+#header4-2 P {
+  font-size: 20px;
+}
+#pricing-table1-3 P {
+  font-size: 20px;
 }

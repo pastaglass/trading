@@ -53,7 +53,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://pastaglass.github.io/trading/\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://investing.com\">INVESTING.COM</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"mailto:guillermozch@gmail.com\">CONTACT</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://pastaglass.github.io/trading/\">ACADEMY</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://investing.com\">INVESTING.COM</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"mailto:guillermozch@gmail.com\">CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-secondary-outline\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
@@ -94,7 +94,7 @@
             "overlayColor": "#222222",
             "overlayOpacity": 0.5
           },
-          "title": "<b>TRADING DE ALTO RENDIMIENTO ACADEMY</b><br><br><br><br><br><br>Las 5 primeras clases en video GRATIS<br>",
+          "title": "<b>TRADING DE ALTO RENDIMIENTO ACADEMY</b><br><br><br><br><br>Las 5 primeras clases en video GRATIS<br>",
           "text": "Déjanos tu email y consigue las 5 primeras clases en video totalmente gratis!",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn intro-newsletter-button newsletter-btn btn btn-info\"><i class=\"fa fa-paper-plane-o\"></i></a> ",
           "form": {
@@ -119,12 +119,17 @@
           "_styles": {
             "H2": {
               "text-align": "center",
-              "font-size": "60px"
+              "font-size": "60px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             "B": {
               "font-size": "100px",
               "font-family": "'Bitter', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            },
+            "P": {
+              "font-size": "25px"
             }
           }
         },
@@ -177,7 +182,11 @@
           "_styles": {
             ".btn": {
               "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "14px"
+            },
+            "P": {
+              "font-size": "20px"
             }
           }
         },
@@ -189,7 +198,7 @@
             "paddingTop": "1",
             "paddingBottom": 0,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/8.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1464x1080.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff8e0",
@@ -202,13 +211,18 @@
             "overlayOpacity": 0.6
           },
           "title": "Registrate antes de que termine la promoción para los 100 primeros estudiantes de la 2ªtrading roomlist.",
-          "text": "En TRADING DE ALTO RENDIMIENTO ACADEMY aprenderás a manejar la plataforma y todos sus entresijos, podrás operar de manera autónoma<br>y podrás preguntar en tutorías personalizadas cualquier duda que tengas.",
+          "text": "En TRADING DE ALTO RENDIMIENTO ACADEMY aprenderás a manejar la plataforma y todos sus entresijos,<br>podrás operar de manera autónoma y podrás preguntar en tutorías personalizadas cualquier duda que tengas.",
           "alias": "sleek/components",
           "_tags": [
             "Theme"
           ],
           "_name": "header4",
-          "_anchor": "header4-2"
+          "_anchor": "header4-2",
+          "_styles": {
+            "P": {
+              "font-size": "20px"
+            }
+          }
         },
         {
           "_params": {
@@ -223,10 +237,10 @@
             "paddingTop": 2,
             "paddingBottom": 1,
             "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/sleek/components/_images/photo-3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1623x1080.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#222222",
+            "bgColor": "#000000",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -266,7 +280,12 @@
             "Theme"
           ],
           "_name": "pricing-table1",
-          "_anchor": "pricing-table1-3"
+          "_anchor": "pricing-table1-3",
+          "_styles": {
+            "P": {
+              "font-size": "20px"
+            }
+          }
         }
       ]
     }
